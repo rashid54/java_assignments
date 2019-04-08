@@ -1,0 +1,11 @@
+
+'hello' is 2 times.
+'world' is 2 times.
+'to' is 1 times.
+'you' is 1 times.
+'all' is 1 times.
+'is' is 1 times.
+'it' is 1 times.
+'happy' is 1 times.
+'new' is 1 times.
+'year' is 1 times.
